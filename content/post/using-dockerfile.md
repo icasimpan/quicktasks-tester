@@ -1,6 +1,7 @@
 ---
 title: "Using a Dockerfile"
 date: 2019-09-24T00:20:25+08:00
+tags: ["dockerfile"]
 draft: false
 ---
 
