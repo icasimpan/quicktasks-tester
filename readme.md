@@ -1,6 +1,6 @@
 [![Build status](https://travis-ci.com/icasimpan/quicktasks-tester.svg)](https://travis-ci.com/icasimpan/quicktasks-tester)
 
-*What is this*
+**What is this**
 
 Is my personal notes on Tester, written with the help of hugo.
 
@@ -26,9 +26,11 @@ git commit "My new awesome note!"
 Every change is auto-published via TravisCI and becomes accessible as https://ismael.casimpan.com/quicktasks-tester
 
 
-Hugo version tested: v0.49.2
+**Hugo version tested:** v0.49.2
 
-Theme version used: https://github.com/icasimpan-oss/basics (HEAD: f5338db) as it has fixes not applied yet
-                    to upstream https://github.com/arjunkrishnababu96/basics (HEAD: 93d2a49) that I need, as follow:
+**Theme version used:** https://github.com/icasimpan-oss/basics (HEAD: f5338db) as it has fixes not applied yet to upstream https://github.com/arjunkrishnababu96/basics (HEAD: 93d2a49) that I need, as follow:
                     * #8 - css breaks when baseURL is not /
                     *    - updated title so it points to correct baseURL
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzkyMjY5NTEwXX0=
+-->
