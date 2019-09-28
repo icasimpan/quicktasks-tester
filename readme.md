@@ -28,9 +28,9 @@ Every change is auto-published via TravisCI and becomes accessible as https://is
 
 **Hugo version tested:** v0.49.2
 
-**Theme version used:** [icasimpan-oss basics - f5338db ](https://github.com/icasimpan-oss/basics)  as it has fixes not applied yet to upstream [basics 93d2a49](https://github.com/arjunkrishnababu96/basics) that I need, as follow:
+**Theme version used:** [icasimpan-oss-basics - f5338db ](https://github.com/icasimpan-oss/basics)  while waiting for fixes to upstream [basics 93d2a49](https://github.com/arjunkrishnababu96/basics) as follows:
 * #8 - css breaks when baseURL is not /
 * updated title so it points to correct baseURL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNDIyOTA5LDc5MjI2OTUxMF19
+eyJoaXN0b3J5IjpbLTYxMDkxMTc5LDc5MjI2OTUxMF19
 -->
