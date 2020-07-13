@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tester | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-tester/tags/</link>
+    <description>Recent content in Tags on Tester | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-tester/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dockerfile</title>
+      <link>https://ismael.casimpan.com/quicktasks-tester/tags/dockerfile/</link>
+      <pubDate>Tue, 24 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-tester/tags/dockerfile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
